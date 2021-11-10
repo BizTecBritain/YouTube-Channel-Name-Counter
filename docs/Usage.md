@@ -44,14 +44,20 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Clone the repo with ```$ git clone https://github.com/BizTecBritain/YouTube-Channel-Name-Counter.git```
+Clone the repo with 
+```
+$ git clone https://github.com/BizTecBritain/YouTube-Channel-Name-Counter.git
+```
 
 Then enter the directory with
 ```
 $ cd YouTube-Channel-Name-Counter
 ```
 
-Then install the python requirements with ```$ pip install -r requirements.txt```
+Then install the python requirements with 
+```
+$ pip install -r requirements.txt
+```
 
 
 ## Usage
