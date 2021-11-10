@@ -16,7 +16,7 @@
   <p align="center">
     A program that takes a list of YouTube URLs and outputs a file containing the channel names and how many of their videos are in the list
     <br />
-    <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/docs/Usage.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/blob/main/docs/Usage.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter">View Demo</a>
@@ -118,7 +118,7 @@ Then to use this code run
 $ python YoutubeCLI.py [optional parameters (see docs)]
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/docs/Usage.md)_
+_For more examples, please refer to the [Documentation](https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/blob/main/docs/Usage.md)_
 
 
 
