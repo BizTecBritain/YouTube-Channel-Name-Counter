@@ -23,6 +23,6 @@ parser.add_argument('--debug', action='store_true',
 args = parser.parse_args()
 
 if args.api_key is None:
-    args.api_key = 'AIzaSyCSmHxKV9iCwqlSz5q1tnEdP5W7VqUP-IE'
+    args.api_key = 'API Key here'  # insert your YouTube API key between the two apostrophes
 
 main.run(args)
