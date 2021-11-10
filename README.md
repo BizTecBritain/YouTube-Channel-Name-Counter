@@ -58,7 +58,7 @@
 
 ## About The Project
 
-One of my friends requested this program to be made to assist with the [TASVideos](http://tasvideos.org/) webpage
+One of my friends requested this program to be made to assist with the [TASVideos](http://tasvideos.org/) webpage.
 Make sure that you check them out!
 
 
