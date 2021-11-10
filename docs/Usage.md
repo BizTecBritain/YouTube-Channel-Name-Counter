@@ -63,7 +63,7 @@ $ cd YouTube-Channel-Name-Counter
 
 Then to use this code run
 ```
-$ python YoutubeCLI.py [path to a text file with YT links] [path to a folder where output files will go] [optional parameters (see below)]
+$ python YoutubeCLI.py [path to a text file with YT links] [path to an output folder] [optional parameters (see below)]
 ```
 
 ### Optional Parameters
