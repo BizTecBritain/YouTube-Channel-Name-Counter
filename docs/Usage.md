@@ -63,49 +63,25 @@ $ cd YouTube-Channel-Name-Counter
 
 Then to use this code run
 ```
-$ python YoutubeCLI.py [optional parameters (see docs)]
+$ python YoutubeCLI.py [path to a text file with YT links] [path to a folder where output files will go] [optional parameters (see below)]
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/blob/main/docs/Usage.md)_
+### Optional Parameters
+To see some of the parameters in the command line run
+```
+$ python YoutubeCLI.py -h
+```
 
+#### Output file parameters (Multiple can be used)
+* [-p] or [--pickle] - output to a python serialsed file (aka [.pickle](https://docs.python.org/3/library/pickle.html))
+* [-c] or [--csv]    - output to a csv file
+* [-j] or [--json]   - output to a json file
 
+#### Other Parameters
+* [-d] or [--disable-progressbar] - disables the progressbar (who knew?)
+* [-a] or [--api-key] - allows you to use a new api  key but only when this program is running
+* [--debug] - output go brrrrrr
 
-## Roadmap
-
-See the [open issues](https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/issues) for a list of proposed features (and known issues).
-
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-## Contact
-
-Alexander Bisland - Twitter: [@BizTecBritain](https://twitter.com/BizTecBritain) - Email: BizTecBritain@gmail.com
-
-Project Link: [https://github.com/BizTecBritain/YouTube-Channel-Name-Counter](https://github.com/BizTecBritain/YouTube-Channel-Name-Counter) 
-
-
-
-## Acknowledgements
-
-* Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) for the blank README.md file
-* Thanks to [TASVideos](http://tasvideos.org/) for the inspiration
 
 [contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/YouTube-Channel-Name-Counter.svg?style=for-the-badge
 [contributors-url]: https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/graphs/contributors
@@ -113,5 +89,3 @@ Project Link: [https://github.com/BizTecBritain/YouTube-Channel-Name-Counter](ht
 [forks-url]: https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/network/members
 [issues-shield]: https://img.shields.io/github/issues/BizTecBritain/YouTube-Channel-Name-Counter.svg?style=for-the-badge
 [issues-url]: https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/issues
-<!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/username-->
