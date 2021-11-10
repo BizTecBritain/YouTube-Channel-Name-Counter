@@ -18,7 +18,7 @@ parser.add_argument('-d', '--disable-progressbar', action='store_true',
 parser.add_argument('-a', '--api-key', type=str, help='use a different api key')
 
 parser.add_argument('--debug', action='store_true',
-                    help='debug go Brrrrrrrr')
+                    help='output go Brrrrrrrr')
 
 args = parser.parse_args()
 
