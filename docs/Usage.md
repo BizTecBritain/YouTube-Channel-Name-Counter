@@ -41,23 +41,32 @@ To get a local copy up and running follow these simple steps.
     > python -m venv venv
     > venv/Scripts/activate.bat
     ```
+ 
+* Get a YouTube API Key
+  * A good website to visit is [here](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
+  * Follow these steps to get your API key and make sure that you remember it<br>
+    1\. Log in to Google Developers Console<br>
+    2\. Create a new project<br>
+    3\. On the new project dashboard, click Explore & Enable APIs<br>
+    4\. In the library, navigate to YouTube Data API v3 under YouTube APIs<br>
+    5\. Enable the API<br>
+    6\. Create a credential<br>
+    7\. A screen will appear with the API key ⚠️**IMPORTANT** You must remember this key for later⚠️
+
 
 ### Installation
 
-Clone the repo with 
-```
-$ git clone https://github.com/BizTecBritain/YouTube-Channel-Name-Counter.git
-```
+Clone the repo with ```$ git clone https://github.com/BizTecBritain/YouTube-Channel-Name-Counter.git```
 
-Then enter the directory with
-```
-$ cd YouTube-Channel-Name-Counter
-```
+Then enter the directory with ```$ cd YouTube-Channel-Name-Counter```
 
-Then install the python requirements with 
-```
-$ pip install -r requirements.txt
-```
+Open the file ```YoutubeCLI.py``` with your preferred text editor or with
+* Linux: ```$ nano YoutubeCLI.py```
+* Windows: ```> notepad YoutubeCLI.py```
+
+Then navigate to line 26, insert your API Key and close the document.
+
+Then install the python requirements with ```$ pip install -r requirements.txt```
 
 
 ## Usage
