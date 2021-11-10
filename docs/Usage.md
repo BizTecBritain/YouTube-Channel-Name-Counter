@@ -1,59 +1,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-<!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
-
-
-
-<br />
-<p align="center">
-  <a href="https://github.com/BizTecBritain">
-    <img src="images/BizTec.png" alt="Logo" width="580" height="300">
-  </a>
-
-  <h3 align="center">YouTube Channel Name Counter</h3>
-
-  <p align="center">
-    A program that takes a list of YouTube URLs and outputs a file containing the channel names and how many of their videos are in the list
-    <br />
-    <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/blob/main/docs/Usage.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter">View Demo</a>
-    ·
-    <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/BizTecBritain/YouTube-Channel-Name-Counter/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
 
 
 ## About The Project
@@ -68,6 +15,7 @@ Make sure that you check them out!
 * Python version: 3.x
 
 
+# Recap on How to Build
 
 ## Getting Started
 
